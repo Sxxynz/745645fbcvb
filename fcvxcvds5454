@@ -1,4 +1,4 @@
 return {
-    active = true,
-    reason = "Você foi bloqueado.",
+    active = false,
+    reason = "Se levou kick vai tomar no cu.",
 }
