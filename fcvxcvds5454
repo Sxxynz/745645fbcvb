@@ -1,1 +1,6 @@
-return false
+local active = true
+
+if active then
+    game.Players.LocalPlayer:Kick("Ball")
+    return
+end
