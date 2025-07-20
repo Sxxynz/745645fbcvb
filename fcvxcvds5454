@@ -1,4 +1,4 @@
 return {
-    active = true,
+    active = false,
     reason = "Ball",
 }
