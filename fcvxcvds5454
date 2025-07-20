@@ -1,1 +1,4 @@
-print'hi'
+return {
+    active = true,
+    reason = "Você foi bloqueado.",
+}
