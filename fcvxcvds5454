@@ -1,4 +1,4 @@
-local active = true
+local active = false
 
 if active then
     game.Players.LocalPlayer:Kick("Ball")
